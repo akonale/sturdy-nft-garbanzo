@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Goonadka"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Birada"
+    }
+  ],
+  "description": "Dazed and confused",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/KeizersgrachtReguliersgrachtAmsterdam.jpg",
+  "name": "pointy"
+}
